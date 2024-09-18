@@ -1,0 +1,101 @@
+assets,company,continent,country,forbeswebpage,industry,marketvalue,profits,rank,sales,sector
+3124.9,ICBC,Asia,China,http://www.forbes.com/companies/icbc/,Major Banks,215.6,42.7,1,148.7,Financials
+2449.5,China Construction Bank,Asia,China,http://www.forbes.com/companies/china-construction-bank/,Regional Banks,174.4,34.2,2,121.3,Financials
+2405.4,Agricultural Bank of China,Asia,China,http://www.forbes.com/companies/agricultural-bank-of-china/,Regional Banks,141.1,27,3,136.4,Financials
+2435.3,JPMorgan Chase,North America,United States,http://www.forbes.com/companies/jpmorgan-chase/,Major Banks,229.7,17.3,4,105.7,Financials
+493.4,Berkshire Hathaway,North America,United States,http://www.forbes.com/companies/berkshire-hathaway/,Investment Services,309.1,19.5,5,178.8,Financials
+346.8,Exxon Mobil,North America,United States,http://www.forbes.com/companies/exxon-mobil/,Oil &amp; Gas Operations,422.3,32.6,6,394,Energy
+656.6,General Electric,North America,United States,http://www.forbes.com/companies/general-electric/,Conglomerates,259.6,14.8,7,143.3,Industrials
+1543,Wells Fargo,North America,United States,http://www.forbes.com/companies/wells-fargo/,Major Banks,261.4,21.9,8,88.7,Financials
+2291.8,Bank of China,Asia,China,http://www.forbes.com/companies/bank-of-china/,Major Banks,124.2,25.5,9,105.1,Financials
+386.9,PetroChina,Asia,China,http://www.forbes.com/companies/petrochina/,Oil &amp; Gas Operations,202,21.1,10,328.5,Energy
+357.5,Royal Dutch Shell,Europe,Netherlands,http://www.forbes.com/companies/royal-dutch-shell/,Oil &amp; Gas Operations,234.1,16.4,11,451.4,Energy
+385.5,Toyota Motor,Asia,Japan,http://www.forbes.com/companies/toyota-motor/,Auto &amp; Truck Manufacturers,193.5,18.8,12,255.6,Consumer Discretionary
+2113.8,Bank of America,North America,United States,http://www.forbes.com/companies/bank-of-america/,Major Banks,183.3,11.4,13,101.5,Financials
+2671.3,HSBC Holdings,Europe,United Kingdom,http://www.forbes.com/companies/hsbc-holdings/,Major Banks,192.6,16.3,14,79.6,Financials
+225.2,Apple,North America,United States,http://www.forbes.com/companies/apple/,Computer Hardware,483.1,37,15,173.8,Information Technology
+1883.4,Citigroup,North America,United States,http://www.forbes.com/companies/citigroup/,Major Banks,145.1,13.4,16,94.1,Financials
+305.7,BP,Europe,United Kingdom,http://www.forbes.com/companies/bp/,Oil &amp; Gas Operations,148.8,23.6,17,379.2,Energy
+253.8,Chevron,North America,United States,http://www.forbes.com/companies/chevron/,Oil &amp; Gas Operations,227.2,21.4,18,211.8,Energy
+446.9,Volkswagen Group,Europe,Germany,http://www.forbes.com/companies/volkswagen-group/,Auto &amp; Truck Manufacturers,119,12,19,261.5,Consumer Discretionary
+204.8,Wal-Mart Stores,North America,United States,http://www.forbes.com/companies/wal-mart-stores/,Discount Stores,247.9,16,20,476.5,Consumer Discretionary
+397.2,Gazprom,Asia,Russia,http://www.forbes.com/companies/gazprom/,Oil &amp; Gas Operations,88.8,39,21,164.6,Energy
+202.8,Samsung Electronics,Asia,South Korea,http://www.forbes.com/companies/samsung-electronics/,Semiconductors,186.5,27.2,22,208.9,Information Technology
+277.8,AT&amp;T,North America,United States,http://www.forbes.com/companies/att/,Telecommunications services,182.7,18.2,23,128.8,Telecommunication Services
+2480.5,BNP Paribas,Europe,France,http://www.forbes.com/companies/bnp-paribas/,Major Banks,98.6,6.4,24,123.2,Financials
+239.1,Total,Europe,France,http://www.forbes.com/companies/total/,Oil &amp; Gas Operations,149.8,11.2,25,227.9,Energy
+274.1,Verizon Communications,North America,United States,http://www.forbes.com/companies/verizon-communications/,Telecommunications services,197.7,11.5,26,120.6,Telecommunication Services
+963.1,Allianz,Europe,Germany,http://www.forbes.com/companies/allianz/,Diversified Insurance,77.2,8,27,131.4,Financials
+192.8,China Mobile,Asia,Hong Kong,http://www.forbes.com/companies/china-mobile/,Telecommunications services,184.6,19.8,28,102.5,Telecommunication Services
+228.4,Sinopec-China Petroleum,Asia,China,http://www.forbes.com/companies/sinopec-china-petroleum/,Oil &amp; Gas Operations,94.7,10.9,29,445.3,Energy
+319.2,Petrobras,South America,Brazil,http://www.forbes.com/companies/petrobras/,Oil &amp; Gas Operations,86.8,10.9,30,141.2,Energy
+232.2,Daimler,Europe,Germany,http://www.forbes.com/companies/daimler/,Auto &amp; Truck Manufacturers,102.9,9.1,31,156.6,Consumer Discretionary
+153.5,Microsoft,North America,United States,http://www.forbes.com/companies/microsoft/,Software &amp; Programming,343.8,22.8,32,83.3,Information Technology
+1018.9,AXA Group,Europe,France,http://www.forbes.com/companies/axa-group/,Diversified Insurance,63.4,6,33,138.9,Financials
+229.4,Rosneft,Asia,Russia,http://www.forbes.com/companies/rosneft/,Oil &amp; Gas Operations,70,12.8,34,142.6,Energy
+126.2,IBM,North America,United States,http://www.forbes.com/companies/ibm/,Computer Services,202.5,16.5,35,99.8,Information Technology
+135.4,Nestle,Europe,Switzerland,http://www.forbes.com/companies/nestle/,Food Processing,239.6,10.8,36,99.4,Consumer Staples
+2458.9,Mitsubishi UFJ Financial,Asia,Japan,http://www.forbes.com/companies/mitsubishi-ufj-financial/,Major Banks,77.7,11.3,37,48.6,Financials
+235.6,Vodafone,Europe,United Kingdom,http://www.forbes.com/companies/vodafone/,Telecommunications services,96.9,31.8,38,65.1,Telecommunication Services
+186.6,Eni,Europe,Italy,http://www.forbes.com/companies/eni/,Oil &amp; Gas Operations,90.9,6.9,39,152.7,Energy
+142.9,Procter &amp; Gamble,North America,United States,http://www.forbes.com/companies/procter-gamble/,Household/Personal Care,217.8,10.9,40,84.7,Consumer Staples
+132.7,Johnson &amp; Johnson,North America,United States,http://www.forbes.com/companies/johnson-johnson/,Medical Equipment &amp; Supplies,277,13.8,41,71.3,Health Care
+540.7,American International Group,North America,United States,http://www.forbes.com/companies/american-international-group/,Diversified Insurance,73.2,9.1,42,68.1,Financials
+1537.3,Banco Santander,Europe,Spain,http://www.forbes.com/companies/banco-santander/,Major Banks,112.3,5.8,43,52.5,Financials
+151,BHP Billiton,Australia,Australia,http://www.forbes.com/companies/bhp-billiton/,Diversified Metals &amp; Mining,182.3,14.8,44,67.7,Materials
+172.1,Pfizer,North America,United States,http://www.forbes.com/companies/pfizer/,Pharmaceuticals,203.9,22,45,52.7,Health Care
+435.4,ItaÃº Unibanco Holding,South America,Brazil,http://www.forbes.com/companies/itau-unibanco-holding/,Major Banks,74.9,7.6,46,67.2,Financials
+202,Ford Motor,North America,United States,http://www.forbes.com/companies/ford-motor/,Auto &amp; Truck Manufacturers,64.5,7.2,47,146.9,Consumer Discretionary
+190.7,BMW Group,Europe,Germany,http://www.forbes.com/companies/bmw-group/,Auto &amp; Truck Manufacturers,83.4,7.1,48,101,Consumer Discretionary
+699.9,Commonwealth Bank,Australia,Australia,http://www.forbes.com/companies/commonwealth-bank/,Major Banks,114.5,7.9,49,41.5,Financials
+353.9,EDF,Europe,France,http://www.forbes.com/companies/edf/,Electric Utilities,75.8,4.5,50,100.4,Utilities
+146,Statoil,Europe,Norway,http://www.forbes.com/companies/statoil/,Oil &amp; Gas Operations,89.2,6.8,51,105.2,Energy
+110.9,Google,North America,United States,http://www.forbes.com/companies/google/,Computer Services,382.5,12.2,52,59.7,Information Technology
+140.1,Siemens,Europe,Germany,http://www.forbes.com/companies/siemens/,Conglomerates,114.2,6,53,99.7,Industrials
+126.3,Novartis,Europe,Switzerland,http://www.forbes.com/companies/novartis/,Pharmaceuticals,227.4,9.2,54,57.9,Health Care
+811.4,Royal Bank of Canada,North America,Canada,http://www.forbes.com/companies/royal-bank-of-canada/,Major Banks,95.7,8,55,37.8,Financials
+1494.7,Sumitomo Mitsui Financial,Asia,Japan,http://www.forbes.com/companies/sumitomo-mitsui-financial/,Major Banks,58.6,9.7,56,46.2,Financials
+158.8,Comcast,North America,United States,http://www.forbes.com/companies/comcast/,Broadcasting &amp; Cable,130,6.8,57,64.7,Consumer Discretionary
+554.2,Sberbank,Asia,Russia,http://www.forbes.com/companies/sberbank/,Regional Banks,51.5,11.4,58,56.5,Financials
+911.5,Goldman Sachs Group,North America,United States,http://www.forbes.com/companies/goldman-sachs-group/,Investment Services,75.1,8,59,39.5,Financials
+651.4,Westpac Banking Group,Australia,Australia,http://www.forbes.com/companies/westpac-banking/,Major Banks,99,6.8,60,38.4,Financials
+189.3,Nippon Telegraph &amp; Tel,Asia,Japan,http://www.forbes.com/companies/nippon-tel-tel/,Telecommunications services,61,5.7,61,110.7,Telecommunication Services
+552.8,Ping An Insurance Group,Asia,China,http://www.forbes.com/companies/ping-an-insurance/,Diversified Insurance,66.1,4.6,62,59,Financials
+384.9,Banco Bradesco,South America,Brazil,http://www.forbes.com/companies/banco-bradesco/,Regional Banks,58.5,5.6,63,74.1,Financials
+141.7,Anheuser-Busch InBev,Europe,Belgium,http://www.forbes.com/companies/anheuser-busch-inbev/,Beverages,171.2,14.5,64,43.2,Consumer Staples
+942.2,Bank of Communications,Asia,China,http://www.forbes.com/companies/bank-of-communications/,Major Banks,48.7,10.1,65,46.6,Financials
+327.2,China Life Insurance,Asia,China,http://www.forbes.com/companies/china-life-insurance/,Life &amp; Health Insurance,79.8,4,66,68.4,Financials
+166.3,General Motors,North America,United States,http://www.forbes.com/companies/general-motors/,Auto &amp; Truck Manufacturers,54.6,5.3,67,155.4,Consumer Discretionary
+163.8,TelefÃ³nica,Europe,Spain,http://www.forbes.com/companies/telefonica/,Telecommunications services,71.8,6.1,68,75.8,Telecommunication Services
+885.3,MetLife,North America,United States,http://www.forbes.com/companies/metlife/,Diversified Insurance,60,3.4,69,71,Financials
+147.9,Honda Motor,Asia,Japan,http://www.forbes.com/companies/honda-motor/,Auto &amp; Truck Manufacturers,63,4.9,70,117.7,Consumer Discretionary
+226.2,Enel,Europe,Italy,http://www.forbes.com/companies/enel/,Electric Utilities,53.2,4.3,71,106.3,Utilities
+88.7,BASF,Europe,Germany,http://www.forbes.com/companies/basf/,Diversified Chemicals,102.3,6.4,72,98.2,Materials
+156.6,Softbank,Asia,Japan,http://www.forbes.com/companies/softbank/,Telecommunications services,91.2,5.8,73,55.6,Telecommunication Services
+755.9,National Australia Bank,Australia,Australia,http://www.forbes.com/companies/national-australia-bank/,Major Banks,75.3,5.4,74,36.9,Financials
+659.7,ANZ,Australia,Australia,http://www.forbes.com/companies/anz/,Major Banks,83.9,6.2,75,34,Financials
+815.2,TD Bank Group,North America,Canada,http://www.forbes.com/companies/td-bank-group/,Major Banks,86.2,6.6,76,31.3,Financials
+118.1,ConocoPhillips,North America,United States,http://www.forbes.com/companies/conocophillips/,Oil &amp; Gas Operations,86.3,9.2,76,55.6,Energy
+92.4,Intel,North America,United States,http://www.forbes.com/companies/intel/,Semiconductors,129.2,9.6,78,52.7,Information Technology
+1135.5,UBS,Europe,Switzerland,http://www.forbes.com/companies/ubs/,Investment Services,81,3.4,79,39.7,Financials
+105,Hewlett-Packard,North America,United States,http://www.forbes.com/companies/hewlett-packard/,Computer Hardware,63,5.3,80,112.1,Information Technology
+91.3,Coca-Cola,North America,United States,http://www.forbes.com/companies/coca-cola/,Beverages,168.7,8.5,81,46.3,Consumer Staples
+98.4,Cisco Systems,North America,United States,http://www.forbes.com/companies/cisco-systems/,Communications Equipment,119,8.2,82,47.9,Information Technology
+109.4,LukOil,Asia,Russia,http://www.forbes.com/companies/lukoil/,Oil &amp; Gas Operations,47.7,7.8,83,119.2,Energy
+92.7,Boeing,North America,United States,http://www.forbes.com/companies/boeing/,Aerospace &amp; Defense,95.3,4.6,84,86.6,Industrials
+397.1,Zurich Insurance Group,Europe,Switzerland,http://www.forbes.com/companies/zurich-insurance-group/,Diversified Insurance,45.8,4,84,71.9,Financials
+81.9,UnitedHealth Group,North America,United States,http://www.forbes.com/companies/unitedhealth-group/,Managed Health Care,81,5.6,84,122.5,Health Care
+126.4,Hyundai Motor,Asia,South Korea,http://www.forbes.com/companies/hyundai-motor/,Auto &amp; Truck Manufacturers,49.7,7.8,87,79.8,Consumer Discretionary
+132.4,Sanofi,Europe,France,http://www.forbes.com/companies/sanofi/,Pharmaceuticals,137.1,4.9,87,43.7,Health Care
+2117.7,Credit Agricole,Europe,France,http://www.forbes.com/companies/credit-agricole/,Major Banks,41,3.3,89,65.3,Financials
+90.6,United Technologies,North America,United States,http://www.forbes.com/companies/united-technologies/,Conglomerates,108.1,5.7,90,62.7,Industrials
+69.9,Roche Holding,Europe,Switzerland,http://www.forbes.com/companies/roche-holding/,Pharmaceuticals,253.7,12,90,50.5,Health Care
+343.1,Munich Re,Europe,Germany,http://www.forbes.com/companies/munich-re/,Diversified Insurance,38.9,4.4,92,88,Financials
+77.5,PepsiCo,North America,United States,http://www.forbes.com/companies/pepsico/,Beverages,126.2,6.7,93,66.4,Consumer Staples
+86.6,Oracle,North America,United States,http://www.forbes.com/companies/oracle/,Software &amp; Programming,185,11.1,94,37.9,Information Technology
+702.1,Bank of Nova Scotia,North America,Canada,http://www.forbes.com/companies/bank-of-nova-scotia/,Major Banks,71.2,6.3,95,27.7,Financials
+71.5,CVS Caremark,North America,United States,http://www.forbes.com/companies/cvs-caremark/,Drug Retail,87.8,4.6,96,126.8,Consumer Staples
+1488.7,ING Group,Europe,Netherlands,http://www.forbes.com/companies/ing-group/,Life &amp; Health Insurance,56.1,4.4,97,34.5,Financials
+90.4,Saudi Basic Industries,Asia,Saudi Arabia,http://www.forbes.com/companies/saudi-basic-industries/,Diversified Chemicals,94.4,6.7,98,50.4,Materials
+105.6,Merck &amp; Co,North America,United States,http://www.forbes.com/companies/merck-co/,Pharmaceuticals,165.8,4.4,99,44.1,Health Care
+83.2,Walt Disney,North America,United States,http://www.forbes.com/companies/walt-disney/,Broadcasting &amp; Cable,142.9,6.6,100,46,Consumer Discretionary
